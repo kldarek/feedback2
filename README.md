@@ -1,5 +1,5 @@
 # 2nd place solution in the Efficiency Track
-# Kaggle Feedback Prize - Predicting Effective Arguments
+## Kaggle Feedback Prize - Predicting Effective Arguments
 
 [Report Link](https://wandb.ai/darek/fbck/reports/How-To-Build-an-Efficient-NLP-Model--VmlldzoyNTE5MDEx)
 [Kaggle Inference Notebook Link](https://www.kaggle.com/code/thedrcat/hf-43bpseudo-infer-single-full-data-model/notebook?scriptVersionId=104069039)
